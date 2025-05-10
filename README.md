@@ -1,9 +1,28 @@
 # Illinois-and-Natinal-VET-benefits
 Illinois and Natinal VET benefits
 
-Great. I will gather a detailed list of all benefits, discounts, education opportunities, free services, and other support available to disabled veterans in Illinois, broken down by VA disability rating (0%, 10%, 30%, 50%, 80%, 90%, and 100%). I will pay special attention to the area around Scott Air Force Base, including nearby counties such as St. Clair, Madison, Clinton, Monroe, and Washington.
 
-This will include statewide and local programs, and I’ll scan official government sites, veterans’ organizations, and forums like Reddit for any lesser-known perks or community resources. I’ll let you know when the report is ready.
+
+
+│   ├── 00_percent.md             # Benefits available at 0% rating
+│   ├── 10_percent.md             # Benefits available at 10% rating
+│   ├── 30_percent.md             # Benefits available at 30% rating
+│   ├── 50_percent.md             # Benefits available at 50% rating
+│   ├── 80_percent.md             # Benefits available at 80% rating
+│   ├── 90_percent.md             # Benefits available at 90% rating
+│   └── 100_percent.md            # Benefits available at 100% rating
+├── local/
+│   ├── st_clair_county.md        # County-level info for St. Clair
+│   ├── madison_county.md         # County-level info for Madison
+│   ├── clinton_county.md         # County-level info for Clinton
+│   ├── monroe_county.md          # County-level info for Monroe
+│   └── washington_county.md      # County-level info for Washington
+├── resources/
+│   ├── contact_list.md           # List of key contact offices
+│   ├── forms_links.md            # Links to VA and state forms
+│   └── sources.md                # Source citations and links
+
+
 
 
 # Benefits for Disabled Veterans in Illinois (By VA Disability Rating)
