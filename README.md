@@ -1,28 +1,3 @@
-# Illinois-and-Natinal-VET-benefits
-Illinois and Natinal VET benefits
-
-
-
-- [VA Health Care](#va-health-care) 
-- [Benefits available at 30% rating](30_percent)
-- [Benefits available at 50% rating](50_percent)
-│   ├── 30_percent.md             # Benefits available at 30% rating
-│   ├── 50_percent.md             # Benefits available at 50% rating
-│   ├── 80_percent.md             # Benefits available at 80% rating
-│   ├── 90_percent.md             # Benefits available at 90% rating
-│   └── 100_percent.md            # Benefits available at 100% rating
-├── local/
-│   ├── st_clair_county.md        # County-level info for St. Clair
-│   ├── madison_county.md         # County-level info for Madison
-│   ├── clinton_county.md         # County-level info for Clinton
-│   ├── monroe_county.md          # County-level info for Monroe
-│   └── washington_county.md      # County-level info for Washington
-├── resources/
-│   ├── contact_list.md           # List of key contact offices
-│   ├── forms_links.md            # Links to VA and state forms
-│   └── sources.md                # Source citations and links
-
-
 
 
 # Benefits for Disabled Veterans in Illinois (By VA Disability Rating)
