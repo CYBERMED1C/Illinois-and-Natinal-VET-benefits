@@ -3,9 +3,9 @@ Illinois and Natinal VET benefits
 
 
 
-
-│   ├── 00_percent.md             # Benefits available at 0% rating
-│   ├── 10_percent.md             # Benefits available at 10% rating
+- [VA Health Care](#va-health-care) 
+- [Benefits available at 0% rating](#Benefits-available-at-0%-rating)
+- [Benefits available at 10% rating](#Benefits-available-at-10%-rating)
 │   ├── 30_percent.md             # Benefits available at 30% rating
 │   ├── 50_percent.md             # Benefits available at 50% rating
 │   ├── 80_percent.md             # Benefits available at 80% rating
